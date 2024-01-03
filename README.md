@@ -8,4 +8,4 @@ I am currently a freelancer with 5 years of experience, but I am eager to find m
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-beeeblebrox-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/beeeblebrox)
 
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=beeeblebrox&theme=dark&background=000000" alt="webDev's Github stats" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=beeeblebrox&theme=dark&background=191919" alt="webDev's Github stats" />
